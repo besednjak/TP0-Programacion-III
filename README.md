@@ -1,2 +1,2 @@
 # TP0-Programacion-III
-Primer Tp resuelto en Smalltalk
+Tp0 resuelto en Smalltalk con Pharo.
